@@ -47,7 +47,7 @@ It includes features such as authentication, categories, book details, favorites
 
 
 📬 Support & Help
-![Uploading Screenshot_20250917_111611_com_alinofal_englibrary_MainActivity.jpg…]()
+
 
 If you encounter problems or have suggestions, please open an Issue
 .
